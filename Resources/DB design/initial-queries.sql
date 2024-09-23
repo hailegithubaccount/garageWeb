@@ -1,3 +1,4 @@
+-- Active: 1710400451299@@127.0.0.1@3306@hailegarage
 -- Customers tables  
 CREATE TABLE IF NOT EXISTS `customer_identifier` (
   `customer_id` int(11) NOT NULL AUTO_INCREMENT,
